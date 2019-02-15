@@ -1,3 +1,0 @@
-# Contents
-
-- [Qiita](qiita)
