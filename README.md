@@ -1,5 +1,3 @@
-# contents
+# Blog Contents
 
-Blog contents
-
-https://peaceiris.github.io/contents/
+[GitHub Pages](https://peaceiris.github.io/contents/)
