@@ -1,0 +1,113 @@
+/* ==UserStyle==
+@name        Qiita Dark
+@namespace   StylusThemes
+@version     1.1.0
+@homepageURL https://github.com/peaceiris/contents/blob/master/docs/qiita/3e6b682d974544720268/qiita_dark.user.css
+@updateURL   https://peaceiris.github.io/contents/qiita/3e6b682d974544720268/qiita_dark.user.css
+@license     MIT
+@author      peaceiris
+==/UserStyle== */
+@-moz-document domain("qiita.com") {
+    /* general */
+    body {
+        background-color: #333333;
+    }
+
+    /* post */
+    .p-items_wrapper {
+        background-color: #444444;
+    }
+
+    .p-items_wrapper .p-items_article {
+        background-color: #333333;
+    }
+
+    .it-Header_authorName {
+        color: white;
+    }
+
+    .it-Header_title {
+        color: white;
+    }
+
+    .it-MdContent p {
+        color: silver;
+    }
+
+    .p-items_wrapper h1 {
+        color: white;
+    }
+
+    .p-items_wrapper h2 {
+        color: white;
+    }
+
+    .p-items_wrapper h3 {
+        color: white;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        padding-left: 0.5em;
+        border-left: solid 4px #FF7F50;
+    }
+
+    ul {
+        color: silver;
+    }
+
+    .p-items_wrapper a:visited {
+        color: orange;
+    }
+
+    span.logly-lift-ad-title {
+        color: silver !important;
+    }
+
+    /* draft list */
+    .draftsPreviewContent_header {
+        background-color: #333333;
+    }
+
+    .draftsPreviewContent_title {
+        color: silver;
+    }
+
+    .draftsSidebarItems_itemTitle {
+        color: silver;
+    }
+
+    /* editor */
+    .editorMarkdown_textarea {
+        background-color: #333333;
+        color: silver;
+    }
+
+    .editorPreview_article {
+        background-color: #333333;
+        color: silver;
+    }
+
+    /* user page */
+    .st-Header_stock-label {
+        color: white;
+    }
+
+    .userActivityChart_stat {
+        color: silver;
+    }
+
+    .newUserPageProfile_info_body {
+        color: silver;
+    }
+
+    .newUserPageProfile_info_heading {
+        color: silver;
+    }
+
+    .ItemLink__info {
+        color: silver;
+    }
+
+    .tableList_cell p {
+        color: silver;
+    }
+}
