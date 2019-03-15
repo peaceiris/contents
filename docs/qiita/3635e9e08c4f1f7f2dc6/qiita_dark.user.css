@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Qiita Dark
 @namespace   StylusThemes
-@version     1.1.4
+@version     1.1.5
 @homepageURL https://github.com/peaceiris/contents/blob/master/docs/qiita/3635e9e08c4f1f7f2dc6/qiita_dark.user.css
 @updateURL   https://peaceiris.github.io/contents/qiita/3635e9e08c4f1f7f2dc6/qiita_dark.user.css
 @license     MIT
@@ -10,7 +10,7 @@
 @-moz-document domain("qiita.com") {
     /* general */
     body {
-        background-color: #444444;
+        background-color: #333333;
     }
 
     /* post */
@@ -82,7 +82,7 @@
         color: silver !important;
     }
 
-    .p-items_wrapper {
+    .p-items_wrapper .comment_content {
         background-color: #333333;
     }
 
