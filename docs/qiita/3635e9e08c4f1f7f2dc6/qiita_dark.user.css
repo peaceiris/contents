@@ -1,9 +1,9 @@
 /* ==UserStyle==
 @name        Qiita Dark
 @namespace   StylusThemes
-@version     1.1.1
-@homepageURL https://github.com/peaceiris/contents/blob/master/docs/qiita/36387ae1f60692c82a97/qiita_dark.user.css
-@updateURL   https://peaceiris.github.io/contents/qiita/3e6b682d974544720268/qiita_dark.user.css
+@version     1.1.2
+@homepageURL https://github.com/peaceiris/contents/blob/master/docs/qiita/3635e9e08c4f1f7f2dc6/qiita_dark.user.css
+@updateURL   https://peaceiris.github.io/contents/qiita/3635e9e08c4f1f7f2dc6/qiita_dark.user.css
 @license     MIT
 @author      peaceiris
 ==/UserStyle== */
@@ -47,10 +47,26 @@
         margin-top: 2rem;
         margin-bottom: 1rem;
         padding-left: 0.5em;
-        border-left: solid 4px #FF7F50;
+        border-left: solid 4px limegreen;
+    }
+
+    .p-items_wrapper h4 {
+        color: white;
+    }
+
+    .p-items_wrapper h5 {
+        color: white;
+    }
+
+    .p-items_wrapper h6 {
+        color: white;
     }
 
     ul {
+        color: silver;
+    }
+
+    ol {
         color: silver;
     }
 
@@ -84,6 +100,30 @@
     .editorPreview_article {
         background-color: #333333;
         color: silver;
+    }
+
+    .it-MdContent h1 {
+        color: white;
+    }
+
+    .it-MdContent h2 {
+        color: white;
+    }
+
+    .it-MdContent h3 {
+        color: white;
+    }
+
+    .it-MdContent h4 {
+        color: white;
+    }
+
+    .it-MdContent h5 {
+        color: white;
+    }
+
+    .it-MdContent h6 {
+        color: white;
     }
 
     /* user page */
