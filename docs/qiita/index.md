@@ -9,9 +9,9 @@ title: Qiita
 
 
 
-## [Qiita Dark Theme - Qiita](https://qiita.com/peaceiris/items/36387ae1f60692c82a97)
+## [Qiita Dark Theme - もう眩しくないよ - Qiita](https://qiita.com/peaceiris/items/3635e9e08c4f1f7f2dc6)
 
-- [qiita_dark.user.css](./36387ae1f60692c82a97/qiita_dark.user.css)
+- [qiita_dark.user.css](./3635e9e08c4f1f7f2dc6/qiita_dark.user.css)
 
 ---
 
