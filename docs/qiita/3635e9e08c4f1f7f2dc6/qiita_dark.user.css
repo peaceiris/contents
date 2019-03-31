@@ -34,6 +34,14 @@
         color: silver;
     }
 
+    .it-MdContent td {
+        color: silver;
+    }
+
+    .it-MdContent tr:nth-child(odd) {
+        background-color: #444444;
+    }
+
     .p-items_wrapper h1 {
         color: white;
     }
