@@ -11,7 +11,7 @@ title: Qiita
 
 ## [Qiita Dark Theme - もう眩しくないよ - Qiita](https://qiita.com/peaceiris/items/3635e9e08c4f1f7f2dc6)
 
-- [qiita_dark.user.css](./3635e9e08c4f1f7f2dc6/qiita_dark.user.css)
+- [qiita.user.css](https://peaceiris.github.io/contents/userstyle/qiita.user.css)
 
 ---
 
