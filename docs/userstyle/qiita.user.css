@@ -1,0 +1,206 @@
+/* ==UserStyle==
+@name        Qiita Dark Theme
+@namespace   StylusThemes
+@version     1.0.3
+@homepageURL https://github.com/peaceiris/contents/userstyle
+@updateURL   https://peaceiris.github.io/contents/userstyle/qiita.user.css
+@license     MIT
+@author      peaceiris
+==/UserStyle== */
+@-moz-document domain("qiita.com") {
+  /* home */
+  .p-home {
+    color: white;
+    background-color: #333333;
+  }
+
+  .p-home_main {
+    color: white;
+    background-color: #333333;
+  }
+
+  .tl-UserInfo {
+    color: white !important;
+    background-color: #444444 !important;
+  }
+
+  /* general */
+  body {
+    background-color: #333333;
+  }
+
+  /* post */
+  .p-items_wrapper {
+    background-color: #444444;
+  }
+
+  .p-items_wrapper .p-items_article {
+    background-color: #333333;
+  }
+
+  .it-Header_authorName {
+    color: white;
+  }
+
+  .it-Header_title {
+    color: white;
+  }
+
+  .it-MdContent p {
+    color: silver;
+  }
+
+  .it-MdContent td {
+    color: silver;
+  }
+
+  .it-MdContent tr:nth-child(odd) {
+    background-color: #444444;
+  }
+
+  .p-items_wrapper h1 {
+    color: white;
+  }
+
+  .p-items_wrapper h2 {
+    color: white;
+  }
+
+  .p-items_wrapper h3 {
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-left: 0.5em;
+    border-left: solid 4px limegreen;
+  }
+
+  .p-items_wrapper h4 {
+    color: white;
+  }
+
+  .p-items_wrapper h5 {
+    color: white;
+  }
+
+  .p-items_wrapper h6 {
+    color: white;
+  }
+
+  ul {
+    color: silver;
+  }
+
+  ol {
+    color: silver;
+  }
+
+  .it-MdContent code {
+    color: silver;
+    background-color: #555555;
+  }
+
+  .it-MdContent .MathJax_Display {
+    color: silver;
+  }
+
+  .p-items_wrapper summary {
+    color: white;
+  }
+
+  .p-items_wrapper a:visited {
+    color: orange;
+  }
+
+  span.logly-lift-ad-title {
+    color: silver !important;
+  }
+
+  .comment_content {
+    background-color: #444444;
+  }
+
+  .ai-User_name, .ai-User_urlname {
+    color: silver;
+  }
+
+  .ai-Organization_name {
+    color: silver;
+  }
+
+  /* draft list */
+  .draftsPreviewContent_header {
+    background-color: #333333;
+  }
+
+  .draftsPreviewContent_title {
+    color: silver;
+  }
+
+  .draftsSidebarItems_itemTitle {
+    color: silver;
+  }
+
+  .it-MdContent a:visited {
+    color: orange;
+  }
+
+  /* editor */
+  .editorMarkdown_textarea {
+    background-color: #333333;
+    color: silver;
+  }
+
+  .editorPreview_article {
+    background-color: #333333;
+    color: silver;
+  }
+
+  .it-MdContent h1 {
+    color: white;
+  }
+
+  .it-MdContent h2 {
+    color: white;
+  }
+
+  .it-MdContent h3 {
+    color: white;
+  }
+
+  .it-MdContent h4 {
+    color: white;
+  }
+
+  .it-MdContent h5 {
+    color: white;
+  }
+
+  .it-MdContent h6 {
+    color: white;
+  }
+
+  /* user page */
+  .st-Header_stock-label {
+    color: white;
+  }
+
+  .userActivityChart_stat {
+    color: silver;
+  }
+
+  .newUserPageProfile_info_body {
+    color: silver;
+  }
+
+  .newUserPageProfile_info_heading {
+    color: silver;
+  }
+
+  .ItemLink__info {
+    color: silver;
+  }
+
+  .tableList_cell p {
+    color: silver;
+  }
+}

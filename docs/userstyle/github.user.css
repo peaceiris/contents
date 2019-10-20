@@ -1,0 +1,41 @@
+/* ==UserStyle==
+@name        GitHub README custom style
+@namespace   StylusThemes
+@version     1.0.2
+@homepageURL https://github.com/peaceiris/contents/userstyle
+@updateURL   https://peaceiris.github.io/contents/userstyle/github.user.css
+@license     MIT
+@author      peaceiris
+==/UserStyle== */
+@-moz-document domain("github.com") {
+
+  .markdown-body h2 {
+    margin-top: 2rem;
+    border-bottom: solid 1px #FF7F50 !important;
+  }
+
+  .markdown-body h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-left: 0.5em;
+    border-left: solid 4px #FF7F50 !important;
+  }
+
+  .markdown-body em {
+    text-decoration: underline;
+  }
+
+  .markdown-body strong {
+    text-decoration: underline;
+  }
+
+  .Label--outline {
+    color: #FFA500 !important;
+    border: solid 1px #FF7F50 !important;
+  }
+
+  .markdown-body img {
+    border: solid 1px #FF7F50 !important;
+  }
+
+}
