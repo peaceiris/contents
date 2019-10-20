@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Highlight Google search queries
 @namespace   StylusThemes
-@version     1.0.5
+@version     1.0.6
 @homepageURL https://github.com/peaceiris/contents/userstyle
 @updateURL   https://peaceiris.github.io/contents/userstyle/google_search.user.css
 @license     MIT
@@ -13,6 +13,6 @@
   }
 
   em {
-    text-decoration: underline dotted #ffff00;
+    text-decoration: underline solid #ffff00;
   }
 }
