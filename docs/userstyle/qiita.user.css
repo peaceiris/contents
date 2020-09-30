@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Qiita Dark Theme
 @namespace   StylusThemes
-@version     1.0.7
+@version     1.0.8
 @homepageURL https://github.com/peaceiris/contents/blob/master/docs/userstyle/qiita.user.css
 @updateURL   https://github.com/peaceiris/contents/raw/master/docs/userstyle/qiita.user.css
 @license     MIT
@@ -121,6 +121,10 @@
   
   .co-Item_text p {
     color: white;
+  }
+
+  .co-Item_username {
+    color: silver;
   }
 
   .ai-User_name, .ai-User_urlname {
