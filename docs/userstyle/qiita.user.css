@@ -118,6 +118,10 @@
   .comment_content {
     background-color: #444444;
   }
+  
+  .co-Item_text p {
+    color: white;
+  }
 
   .ai-User_name, .ai-User_urlname {
     color: silver;
