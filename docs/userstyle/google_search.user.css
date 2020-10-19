@@ -1,13 +1,13 @@
 /* ==UserStyle==
 @name        Google Search
 @namespace   StylusThemes
-@version     1.0.10
+@version     1.0.11
 @homepageURL https://github.com/peaceiris/contents/blob/master/docs/userstyle/google_search.user.css
 @updateURL   https://peaceiris.github.io/contents/userstyle/google_search.user.css
 @license     MIT
 @author      peaceiris
 ==/UserStyle== */
-@-moz-document domain("https://www.google.com") {
+@-moz-document domain("google.com") {
   a:visited {
     color: grey;
   }
