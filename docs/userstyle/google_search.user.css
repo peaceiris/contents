@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Google Search
 @namespace   StylusThemes
-@version     1.0.12
+@version     1.0.13
 @homepageURL https://github.com/peaceiris/contents/blob/master/docs/userstyle/google_search.user.css
 @updateURL   https://peaceiris.github.io/contents/userstyle/google_search.user.css
 @license     MIT
@@ -13,6 +13,7 @@
   }
 
   em {
-    background-color: #ffffee !important;
+    color: black !important;
+    background-color: #ffffaa !important;
   }
 }
