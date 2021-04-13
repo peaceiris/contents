@@ -29,7 +29,7 @@
     text-decoration: underline;
   }
 
-  .Label--outline {
+  .Label.Label--secondary {
     color: #FFA500 !important;
     border: solid 1px #FF7F50 !important;
   }
